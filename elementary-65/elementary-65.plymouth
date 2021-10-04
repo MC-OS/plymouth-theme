@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=elementary-65
+Description=A theme that features a blank background with a logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/elementary-65
+ScriptFile=/usr/share/plymouth/themes/elementary-65/elementary-65.script
